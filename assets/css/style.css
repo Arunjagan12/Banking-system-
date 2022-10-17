@@ -5,7 +5,7 @@ html{
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #8415ce;
+    background-color: #9e2020;
 }
 
 /* splash screen css starts here  */
@@ -30,7 +30,7 @@ body{
 }
 
 .nav-link{
-    color: #5f6368!important;
+    color: #1b64c0!important;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
@@ -66,7 +66,7 @@ body{
     padding: 1rem 2rem;
     font-size: 162%;
     background-color: #fff;
-    color: #039be5!important;
+    color: #2b4049!important;
     transition: 0.3s;
 }
 
@@ -101,7 +101,7 @@ body{
 }
 
 .get-started-content a:hover{
-    background-color: #017ab6;
+    background-color: white;
     text-decoration: none;
 }
 /* get-started-buttons css end here*/
